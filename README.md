@@ -1,3 +1,3 @@
 # Patterns
 
-** This repository contains patterns
+This repository contains patterns
